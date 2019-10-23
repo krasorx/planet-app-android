@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:PlanetApp"
+             x:Class="PlanetApp.MainPage"
+             Title="HOME" >
+
+    <StackLayout Margin="0,0,0,0" BackgroundColor="DarkViolet">
+
+
+        <StackLayout VerticalOptions="CenterAndExpand" Padding="40,10,40,10" >
+            <Button Text="NEW GAME" FontSize="Large" TextColor="Black" 
+                    BorderColor="AliceBlue" BorderWidth="1"
+                    x:Name="NewGame" Clicked="NewGame_OnClicked">
+            
+            </Button>
+
+            <Button Text="LOAD GAME" FontSize="Large" TextColor="Black" 
+                    BorderColor="AliceBlue" BorderWidth="1"
+                    x:Name="loadGame" Clicked="loadGame_Clicked">
+
+            </Button>
+
+            <Button Text="HELP" FontSize="Large" TextColor="Black" 
+                    BorderColor="AliceBlue" BorderWidth="1" x:Name="help"
+                    Margin="0,50,0,-50">
+            </Button>
+        </StackLayout>
+
+    </StackLayout>
+
+</ContentPage>

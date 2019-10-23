@@ -1,0 +1,14 @@
+C:\Users\luise\source\repos\PlanetApp\PlanetApp\PlanetApp\bin\Debug\netstandard2.0\PlanetApp.deps.json
+C:\Users\luise\source\repos\PlanetApp\PlanetApp\PlanetApp\bin\Debug\netstandard2.0\PlanetApp.dll
+C:\Users\luise\source\repos\PlanetApp\PlanetApp\PlanetApp\bin\Debug\netstandard2.0\PlanetApp.pdb
+C:\Users\luise\source\repos\PlanetApp\PlanetApp\PlanetApp\obj\Debug\netstandard2.0\PlanetApp.csprojAssemblyReference.cache
+C:\Users\luise\source\repos\PlanetApp\PlanetApp\PlanetApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\luise\source\repos\PlanetApp\PlanetApp\PlanetApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\luise\source\repos\PlanetApp\PlanetApp\PlanetApp\obj\Debug\netstandard2.0\PlanetApp.csproj.CoreCompileInputs.cache
+C:\Users\luise\source\repos\PlanetApp\PlanetApp\PlanetApp\obj\Debug\netstandard2.0\PlanetApp.AssemblyInfoInputs.cache
+C:\Users\luise\source\repos\PlanetApp\PlanetApp\PlanetApp\obj\Debug\netstandard2.0\PlanetApp.AssemblyInfo.cs
+C:\Users\luise\source\repos\PlanetApp\PlanetApp\PlanetApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\luise\source\repos\PlanetApp\PlanetApp\PlanetApp\obj\Debug\netstandard2.0\PlanetApp.dll
+C:\Users\luise\source\repos\PlanetApp\PlanetApp\PlanetApp\obj\Debug\netstandard2.0\PlanetApp.pdb
+C:\Users\luise\source\repos\PlanetApp\PlanetApp\PlanetApp\obj\Debug\netstandard2.0\NewGamePage.xaml.g.cs
+C:\Users\luise\source\repos\PlanetApp\PlanetApp\PlanetApp\obj\Debug\netstandard2.0\LoadGamePage.xaml.g.cs
